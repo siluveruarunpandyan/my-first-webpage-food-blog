@@ -135,6 +135,7 @@ img{
 .hero-right-image{
     width: 70%;
     height: auto;
+    justify-content: end;
     align-items: flex-end;
 }
 
