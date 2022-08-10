@@ -133,8 +133,9 @@ img{
     border: var(--clr-light-blue);
 }
 .hero-right-image{
-    width: 80%;
+    width: 70%;
     height: auto;
+    align-items: flex-end;
 }
 
 .txt-center{
